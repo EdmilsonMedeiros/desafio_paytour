@@ -271,7 +271,7 @@ php artisan test --coverage
 - **Dashboard**: `http://localhost:8000/dashboard` (após login)
 
 ### Credenciais Padrão para Admin
-- **Email**: admin@paytour.com
+- **Email**: admin@admin.com
 - **Senha**: secret
 
 ## 🔧 Comandos Úteis

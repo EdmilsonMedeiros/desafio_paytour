@@ -1,0 +1,7 @@
+{
+  "resources/js/Pages/Auth/Login.vue": [],
+  "resources/js/Pages/Components/AlertMessage.vue": [],
+  "resources/js/Pages/Dashboard/Index.vue": [],
+  "resources/js/Pages/Index.vue": [],
+  "resources/js/ssr.js": []
+}
